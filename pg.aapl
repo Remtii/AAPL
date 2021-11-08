@@ -1,0 +1,10 @@
+function main()
+  declare n
+
+  input n
+  for i=0 to n do
+    output i
+  end
+end
+
+main()
